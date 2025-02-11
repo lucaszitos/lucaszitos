@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **C2 Backdoor**
+ 🔭 I’m currently working on **👽 Looking for a Job 👽**
  
- 🌱 I’m currently learning **React Native, TailWind, Typescript and AWS**
+ 🌱 I’m currently learning **Java, Spring, Data Structures, Machine Learning and AWS**
 
 ⚡ Fun fact **It’s hard to rob a gun store man, they got guns! -Malvo**
 
@@ -45,8 +45,8 @@
   ``` 
                        .-.         _____________________________________________________________________________
                       |_:_|       |                                                                            |
-                     /(_Y_)\  ----| Falar é fácil, mas me mostre o código, seja mais que um copiador de codigo!|
-.                 ( \/M\/ )     |____________________________________________________________________________|
+                     /(_Y_)\  ----|      Talking is easy, but show me the code, be more than a code copier!    |
+.                 ( \/M\/ )       |____________________________________________________________________________|
  '.               _.'-/'-'\-'._   
    ':           _/.--'[[[[]'--.\_
      ':        /_'  : |::"| :  '.\
