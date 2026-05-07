@@ -1,41 +1,18 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Ferreira!;" />
-</h1>
+# 🧙‍♂️ Lucas Ferreira
 
-<h3 align="center">Software Engineer from Brazil br</h3>
+**`Digital Craftsman`**
 
-<br/>
+I'm a rookie software engineer, Linux distro hopper, Java enthusiast and runner
 
-<div align="center">
- 
- 🔭 I’m currently working on **👽 Looking for a Job 👽**
- 
- 🌱 I’m currently learning **Java, Spring, Data Structures, Machine Learning and AWS**
+### 🧰 Languages and Tools
 
-⚡ Fun fact **It’s hard to rob a gun store man, they got guns! -Malvo**
-
- </div>
-
- <div align="center"> 
-  <a href="mailto:lucasferreiraf2001@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-65a095288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/lucaszitos?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,flask,fastapi,html,css,vscode,github,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,mysql,postgresql,c,java,ruby,rails" /><br>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 <hr/>
@@ -43,10 +20,10 @@
 <div>
   
   ``` 
-                       .-.         _____________________________________________________________________________
-                      |_:_|       |                                                                            |
-                     /(_Y_)\  ----|      Talking is easy, but show me the code, be more than a code copier!    |
-.                 ( \/M\/ )     |____________________________________________________________________________|
+                       .-.         ___________________________________________________
+                      |_:_|       |                                                   |
+                     /(_Y_)\  ----|         Talk is cheap, show me the code!          |
+.                 ( \/M\/ )     |___________________________________________________|
  '.               _.'-/'-'\-'._   
    ':           _/.--'[[[[]'--.\_
      ':        /_'  : |::"| :  '.\
